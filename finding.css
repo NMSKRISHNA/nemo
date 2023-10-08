@@ -1,0 +1,12 @@
+.whole-container{
+	background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/orange-color-bg.png');
+	width: 100vw;
+	padding: 5%;
+		color:white;
+}
+.d-block{
+	height:70vh;
+}
+.image{
+	width: 150%;
+}
